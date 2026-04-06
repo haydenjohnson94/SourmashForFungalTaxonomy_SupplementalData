@@ -1,1 +1,1 @@
-This repository contains supplemental data for the manuscript "Whole genome similarity provides a robust framework for classification of fungal species from the genus rank to infraspecific variants "
+This repository contains supplemental data for the manuscript "Whole genome similarity provides a robust framework for classification of fungal taxa from the genus rank to infraspecific variants "
